@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<row>
+		<CardNumber>4120000000000</CardNumber>
+		<ExpirationDate>4/20/2030</ExpirationDate>
+		<NameOfCardholder>Bob</NameOfCardholder>
+	</row>
+</root>
